@@ -1,3 +1,5 @@
+# @author NAM HUNG TRAN 
+
 import pygame 
 
 pygame.init()
