@@ -1,4 +1,4 @@
-# IOSCalculator
+# **IOSCalculator**
 
 ## **Purposes:**
 * Making alike IOS calculator using Pygame
