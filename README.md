@@ -1,10 +1,10 @@
-# IOSCalculatoy
+# IOSCalculator
 
-## Purposes:
+## **Purposes:**
 * Making alike IOS calculator using Pygame
 
-## Problems: 
+## **Problems:**
 
-## Screenshots: 
+## **Screenshots:**
 
 ![image](https://raw.github.com/Hdz2001/IOSCalculator/main/Capture.PNG)
