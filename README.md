@@ -2,6 +2,7 @@
 
 ## **Purposes:**
 * Making alike IOS calculator using Pygame
+* Download game exe zip to test the calculator 
 
 ## **Problems:**
 
